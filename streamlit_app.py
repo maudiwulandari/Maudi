@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈My new app ")
+st.title("ִ ִ ׄ𓂃˖˳·˖ ִֶָ ⋆🌷͙⋆ ִֶָ˖·˳˖𓂃 ִֶָ ")
 st.write(
    "HI THERE! [docs.streamlit.io](https://docs.streamlit.io/)."
 )
